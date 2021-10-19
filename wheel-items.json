@@ -5,11 +5,11 @@
       "color": "hsl(197 30% 43%)"
     },
     {
-      "text": "Cat",
+      "text": "Deer",
       "color": "hsl(173 58% 39%)"
     },
     {
-      "text": "Koala",
+      "text": "Bear",
       "color": "hsl(43 74% 66%)"
     },
     {
@@ -21,7 +21,7 @@
       "color": "hsl(12 76% 61%)"
     },
     {
-      "text": "Donkey",
+      "text": "Horse",
       "color": "hsl(350 60% 52%)"
     },
     {
@@ -29,7 +29,7 @@
       "color": "hsl(91 43% 54%)"
     },
     {
-      "text": "Horse",
+      "text": "Tiger",
       "color": "hsl(120 36% 74%)"
     }
   ]

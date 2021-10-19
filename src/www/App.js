@@ -162,6 +162,7 @@ class App extends Component {
                 height="240"
                 frameBorder="0"
                 className="giphy-embed"
+                style={{ pointerEvents: "none" }}
                 allowFullScreen
               ></iframe>
             )}
