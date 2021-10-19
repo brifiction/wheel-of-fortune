@@ -2,6 +2,8 @@
 
 Spin the wheel! Win your fortune, wow! Have fun with this knock-off 'Wheel of Fortune'.
 
+![App Demo](2021-10-19_21-18-54.gif "App Demo")
+
 ## Available Scripts
 
 In the project directory, you can run:
